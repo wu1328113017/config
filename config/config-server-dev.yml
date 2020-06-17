@@ -1,5 +1,5 @@
 data:
-  env: config-server-dev
+  env: config-server-dev2
   user:
     username: wdz
     password: 1328113017
